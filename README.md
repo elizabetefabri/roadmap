@@ -19,7 +19,7 @@
       <td><img width="30px" height="30px" align="center" alt="icon check" src="./.github/check.png"></td>
       <td>All About Variables</td>
       <td align="center">
-        <a href="https://github.com/elizabetefabri/roadmap/docs/roadmap/variables/variable-declarations.md" target="_blank">
+        <a href="https://github.com/elizabetefabri/roadmap/blob/main/docs/roadmap/variables/variable-declarations.md" target="_blank">
            <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20Lista_de_Exercícios-090912?style=for-the-badge" width="250px">
         </a>
       </td>
